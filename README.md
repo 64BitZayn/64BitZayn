@@ -1,30 +1,42 @@
-<h1>Hi, I'm Zayn! <br/><a href="https://github.com/64BitZayn">Programmer</a>, <a href="https://www.linkedin.com/in/zaynharb/">Cybersecurity Enthusiast</a></h1>
+# 🕵️‍♂️ **Greetings**  
+**👨‍💻 Cybersecurity Specialist | 🐍 Custom Python Programmer | 🔍 Malware Analyst**
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-https://github.com/64BitZayn/Cybersecurity-Projects
+---
 
+### 🔐 **Cybersecurity Projects**  
+> Dive into my research, scripts, and tools focused on threat detection, malware analysis, and defensive automation.  
+[Explore my projects! 🚀](https://github.com/64BitZayn/Cybersecurity-Projects)
 
-<h2>👨‍💻 Certifications</h2>
-<a href="https://www.credly.com/badges/2807155f-a404-4c56-b1de-01241dfa4680/linked_in_profile">Introduction to Cybersecurity by CISCO </a>
-</br><a href="https://www.coursera.org/account/accomplishments/certificate/WACZZT6CAGUZ">IT Security by Google </a>
-</br><a href="https://www.udemy.com/certificate/UC-53dda8fe-cd0a-4f09-b553-d562c5d2264a/">Fundamentals of Network Security</a>
-</br><a href="https://www.credly.com/badges/f8a380f8-bc16-4015-8303-fd9966b3926f">Foundations of Breach & Attack Simulation</a>
-</br>CCNA R&S: Introduction to Networks
-</br>CCNA R&S: Routing and Switching
-</br>Cybersecurity Within IT and ICS Domains from Cybersecurity and Infrastructure Security Agency
+---
 
+### 📜 **Certifications**  
+**Skills & Knowledge Acquired**  
+* [Professional Cybersecurity Analyst by IBM](#)  
+* [Introduction to Cybersecurity by CISCO](#)  
+* [IT Security by Google](#)  
+* [Fundamentals of Network Security](#)  
+* [Foundations of Breach & Attack Simulation](#)  
+* [CCNA R&S: Introduction to Networks](#)  
+* [CCNA R&S: Routing and Switching](#)  
+* [Cybersecurity in IT and ICS Domains (CISA)](#)  
 
+---
 
+### 🧑‍🔬 **Connect With Me**  
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harbb)  
+* [![GitHub](https://img.shields.io/badge/GitHub-Follow-white?style=flat-square&logo=github)](https://github.com/64BitZayn)  
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="Zayn | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Zayn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🔍 **Technical Interests**  
+* Malware Analysis  
+* Incident Response  
+* Threat Intelligence  
+* Offensive & Defensive Security  
 
+---
 
+### 👾 **"The more you sweat in peace, the less you bleed in war."**
 
+---
 
-[youtube]: https://www.youtube.com/channel/UCZjO479uRIgN-IkRHTF6q-w
-[linkedin]: https://www.linkedin.com/in/zaynharb/
-
-<!--
