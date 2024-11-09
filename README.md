@@ -5,7 +5,7 @@
 
 ### 🔐 **Cybersecurity Projects**  
 > Dive into my research, scripts, and tools focused on threat detection, malware analysis, and defensive automation.  
-[Explore my projects! 🚀](https://github.com/64BitZayn/Cybersecurity-Projects)
+[Explore my projects! 🚀]
 
 ---
 
