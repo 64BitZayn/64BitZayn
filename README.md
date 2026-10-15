@@ -50,7 +50,7 @@ $ cat now.txt
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harbb"><img src="https://img.shields.io/badge/LINKEDIN-harbb-ff7fd5?style=for-the-badge&labelColor=4a3bd6&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://YOUR-SITE.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20THE%20SITE-4fe3ee?style=for-the-badge&labelColor=4a3bd6" alt="Portfolio"></a>
+  <a href="https://64bitzayn.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20THE%20SITE-4fe3ee?style=for-the-badge&labelColor=4a3bd6" alt="Portfolio"></a>
   <a href="mailto:zaynspublicprofiles@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-ff7fd5?style=for-the-badge&labelColor=4a3bd6" alt="Email"></a>
 </p>
 
