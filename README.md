@@ -1,36 +1,42 @@
-<p align="center"><img src="banner.jpg" alt="Zayn Al Abedine Harb" width="100%"></p>
+<p align="center"><img src="banner.png" alt="Zayn Al Abedine Harb: Blue Teamer" width="100%"></p>
 
-# Zayn Al Abedine Harb
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-ff7fd5?style=for-the-badge&labelColor=4a3bd6" alt="Open to work">
+  <img src="https://img.shields.io/badge/ROLE-BLUE%20TEAMER-4fe3ee?style=for-the-badge&labelColor=4a3bd6" alt="Blue teamer">
+  <img src="https://img.shields.io/badge/BASED%20IN-GERMANY-ff7fd5?style=for-the-badge&labelColor=4a3bd6" alt="Germany">
+</p>
 
-**Blue Teamer | SOC Analyst | Detection Engineering & Threat Intelligence**
+```text
+$ whoami
+zayn al abedine harb  //  blue teamer
 
-Two years on a 24/7 SOC floor (Microsoft Sentinel, Defender XDR, FortiEDR, Wazuh, MISP), now an M.Sc. Cybersecurity student at BTU Cottbus-Senftenberg, Germany. I build detection and threat-intel tooling.
+$ cat now.txt
+▶ PLAY   M.Sc. Cybersecurity, BTU Cottbus-Senftenberg
+         2 years on a 24/7 SOC floor: Sentinel, Defender XDR, FortiEDR, Wazuh, MISP
+● REC    looking for Werkstudent / part-time / junior roles
+         SOC · detection engineering · threat intelligence · incident response
+         Germany, open to remote
+```
 
-🟢 **Open to work:** Werkstudent, part-time and junior roles in SOC, detection engineering, threat intelligence and incident response. Germany, open to remote.
+<img src="h-projects.png" alt="Projects" width="100%">
 
-🌐 [Portfolio](https://64bitzayn.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/harbb) · ✉️ zaynspublicprofiles@gmail.com
+| Tape | Project | What it does |
+| :--- | :--- | :--- |
+| `ZH-360` | [**wazuh-misp-integration**](https://github.com/64BitZayn/wazuh-misp-integration) | Sysmon events checked against MISP in real time; a hit raises a high-severity Wazuh alert |
+| `ZH-480` | [**kql-hunting-library**](https://github.com/64BitZayn/kql-hunting-library) | Sentinel and Defender XDR hunting: compromised-credential sign-ins, email triage, IOC sweeps, IR playbook |
+| `ZH-300` | [**misp-feed-event-recovery**](https://github.com/64BitZayn/misp-feed-event-recovery) | Pulls events from slow MISP feeds one UUID at a time |
+| `ZH-120` | [**MAKS**](https://github.com/64BitZayn/MAKS) | Triages malware strings dumps for abused Windows APIs |
+| `ZH-180` | [**FIM**](https://github.com/64BitZayn/FIM-File-Integrity-Manager) | PowerShell file integrity monitor with SHA-512 baselines |
+| `ZH-420` | [**email-threat-analyzer**](https://github.com/64BitZayn/email-threat-analyzer) | Phishing triage tool. Closed source: demo and code on request |
+| `ZH-240` | [**misp-synthwave-theme**](https://github.com/64BitZayn/misp-synthwave-theme) | Dark retrowave theme for MISP |
+| `ZH-540` | [**multi-agent-job-application-pipeline**](https://github.com/64BitZayn/multi-agent-job-application-pipeline) | Multi-agent orchestration with review gates, failover and shared state |
 
----
+<img src="h-focus.png" alt="Focus" width="100%">
 
-### 🔐 Projects
+`Detection engineering` &nbsp; `Threat hunting (KQL)` &nbsp; `Threat intelligence (MISP, OpenCTI)` &nbsp; `Incident response` &nbsp; `Malware analysis` &nbsp; `ICS/OT security (Modbus, DNP3, CIP)`
 
-| Project | What it does |
-| --- | --- |
-| [wazuh-misp-integration](https://github.com/64BitZayn/wazuh-misp-integration) | Sysmon events checked against MISP in real time; a hit raises a high-severity Wazuh alert |
-| [kql-hunting-library](https://github.com/64BitZayn/kql-hunting-library) | Sentinel and Defender XDR hunting queries: compromised-credential sign-ins, email triage, IOC sweeps, IR playbook |
-| [misp-feed-event-recovery](https://github.com/64BitZayn/misp-feed-event-recovery) | Pulls events from slow MISP feeds one UUID at a time |
-| [MAKS](https://github.com/64BitZayn/MAKS) | Triages malware strings dumps for abused Windows APIs |
-| [FIM](https://github.com/64BitZayn/FIM-File-Integrity-Manager) | PowerShell file integrity monitor with SHA-512 baselines |
-| [email-threat-analyzer](https://github.com/64BitZayn/email-threat-analyzer) | Phishing triage tool (closed source, demo and code on request) |
-| [misp-synthwave-theme](https://github.com/64BitZayn/misp-synthwave-theme) | Dark retrowave theme for MISP |
-| [multi-agent-job-application-pipeline](https://github.com/64BitZayn/multi-agent-job-application-pipeline) | Multi-agent orchestration with review gates, failover and shared state |
+<img src="h-certs.png" alt="Certifications" width="100%">
 
----
-
-### 🧰 Focus
-Detection engineering · Threat hunting (KQL) · Threat intelligence (MISP, OpenCTI) · Incident response · Malware analysis · ICS/OT security (Modbus, DNP3, CIP)
-
-### 📜 Certifications
 * Professional Cybersecurity Analyst, IBM
 * Introduction to Cybersecurity, Cisco
 * IT Security, Google
@@ -38,6 +44,14 @@ Detection engineering · Threat hunting (KQL) · Threat intelligence (MISP, Open
 * Foundations of Breach & Attack Simulation
 * CCNA R&S: Introduction to Networks
 * CCNA R&S: Routing and Switching
-* Cybersecurity in IT and ICS Domains, by CISA (the US Cybersecurity and Infrastructure Security Agency, not the ISACA auditor certification)
+* Cybersecurity in IT and ICS Domains, CISA (US Cybersecurity and Infrastructure Security Agency)
 
-(Where you have a credential URL, link it. Otherwise leave it unlinked.)
+<img src="h-connect.png" alt="Connect" width="100%">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harbb"><img src="https://img.shields.io/badge/LINKEDIN-harbb-ff7fd5?style=for-the-badge&labelColor=4a3bd6&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://YOUR-SITE.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20THE%20SITE-4fe3ee?style=for-the-badge&labelColor=4a3bd6" alt="Portfolio"></a>
+  <a href="mailto:zaynspublicprofiles@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-ff7fd5?style=for-the-badge&labelColor=4a3bd6" alt="Email"></a>
+</p>
+
+<p align="center"><code>■ STOP &nbsp; thanks for watching &nbsp;·&nbsp; be kind, rewind</code></p>
